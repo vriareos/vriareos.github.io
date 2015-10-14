@@ -143,7 +143,7 @@ aside {
   position: fixed;
   top: 0; left: 0;
   padding: 30px;
-  background-image: url(http://i.imgur.com/5nwPL.png);
+  background-image: url(/home/oceanius/vriareos.github.io/content/images/sssssssss.jpg);
   color: white;
   box-shadow: 0 0 3px black;
 }
